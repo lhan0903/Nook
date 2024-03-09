@@ -1,1 +1,5 @@
 # Nook
+
+Sloane, Lilit, Rachael, Linda
+
+About our webapp: Each person can write a message in a textbox and assign any number of tags to the message. A message should be a struggle or recent issue they are going through or a traumatic event, and the tags categories that the message falls into (such as domestic violence, racial discrimination, sexual harassment) [to be updated]
