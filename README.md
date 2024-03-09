@@ -8,7 +8,7 @@ https://anadviceaday.wordpress.com/2010/05/03/maybe-you-need-a-tree-hole-too/
 ### About our webapp: 
 Our webapp has two main functionalities:
 1. Confide - Send a whisper
-  * Each person can write a message in a textbox and assign any number of tags to the message. A message should be a struggle or it could be obstacles they are facing in life or past trauma that they want to share. The tags categorizes the message (sample categories: domestic violence, racial discrimination, sexual harassment, etc). 
+  * A whisper is a message that describes a struggle or worry, it could be obstacles that you are facing in life or past trauma that you want to share. Each person can create a whisper and send it anonymously to a random stranger. Each whisper can be assigned any number of tags during creation, and they are used to categorize the message (sample categories: domestic violence, racial discrimination, sexual harassment, etc). 
 
 3. Resonate - Hear other's whispers
    * to be updated
