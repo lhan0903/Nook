@@ -12,3 +12,4 @@ Our webapp has two main functionalities:
 
 2. Resonate - Hear others' whispers
   * You can view other's whispers and respond to them by sending back a message or simply clicking supportive buttons like "I feel you", "Hope things are better", and "I support you"
+  * You can also set tags for the specific types of whispers that you want to view.
