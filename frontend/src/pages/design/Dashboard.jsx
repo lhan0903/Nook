@@ -1,4 +1,5 @@
 import "./styles/dashboard.css"
+import NavBar from "./nav-bar-side";
 
 const Dashboard = () => {
     return (
@@ -135,7 +136,7 @@ const Dashboard = () => {
                                 </div>
                                 <div class="category-1x8">
                                     <p class="discrimination-at-workplace-mwJ">Same Occupation</p>
-                                    <img class="transparent-job-icon-recruitment-icon-business-recruitment-ico-5eceb96a49df74-1-Gt4" src="./assets/transparent-job-icon-recruitment-icon-business-recruitment-ico-5eceb96a49df74-1-RRn.png"/>
+                                    <img class="transparent-job-icon-recruitment-icon-business-recruitment-ico-5eceb96a49df74-1-Gt4" src="./images/transparent-job-icon-recruitment-icon-business-recruitment-ico-5eceb96a49df74-1-RRn.png"/>
                                 </div>
                             </div>
                             <p class="click-here-to-see-more-LN8">Click here to see more...</p>

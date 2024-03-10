@@ -58,13 +58,6 @@ const Login = ({ setisLoggedIn }) => {
                 </div>
             </div>
             </body>
-            // --------------------
-
-            <div className="login-container">
-                <button className="btn" onClick={handleLogin}>
-                    Login
-                </button>
-            </div>
         </div>
     );
 };
