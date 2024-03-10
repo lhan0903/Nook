@@ -24,6 +24,7 @@ body {
   align-items: center;
   background-color: #fff3e8;
 }
+
 .sign-in-landing-VoA .auto-group-schr-xqA {
   margin: 0rem 11.5rem 1rem 0rem;
   width: 47.2rem;
@@ -180,6 +181,8 @@ body {
   font-family: Jost, 'Source Sans Pro';
   white-space: nowrap;
 }
+
+/* Button styles */
 .sign-in-landing-VoA .auto-group-asnt-axL .auto-group-mthz-tCL .group-3-txL {
   width: 18.3rem;
   height: 5.3rem;
@@ -201,7 +204,17 @@ body {
   box-sizing: border-box;
   background-color: #ff9d9d;
   border-radius: 5rem;
+  transition: background-color 0.3s, color 0.3s; /* Add transition for hover effect */
+  z-index: 5;
 }
+
+/* Button hover effect */
+.sign-in-landing-VoA .auto-group-asnt-axL .auto-group-mthz-tCL .group-3-txL:hover {
+  background-color: #ff5858; /* Change background color on hover */
+  color: #ffffff; /* Change text color on hover */
+}
+
+
 .sign-in-landing-VoA .auto-group-asnt-axL .auto-group-mthz-tCL .rectangle-4-s3a {
   width: 52.2rem;
   height: 31.5rem;
