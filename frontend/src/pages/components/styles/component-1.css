@@ -1,0 +1,88 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 48.1rem;
+}.component-1-PRn {
+  width: 100%;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+}
+.component-1-PRn .auto-group-swt8-wiC {
+  margin-bottom: 0.4rem;
+  width: 100%;
+  height: 6.3rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.component-1-PRn .auto-group-swt8-wiC .pm-gfn {
+  width: 5.9rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 42.2rem;
+  top: 1.8rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 0.955;
+  color: #000000;
+  font-family: Hubballi, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.component-1-PRn .auto-group-swt8-wiC .re-advice-needed-discrimination-in-potions-position-bnk {
+  width: 44.2rem;
+  height: 2.3rem;
+  position: absolute;
+  left: 2.9rem;
+  top: 4rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.2225;
+  color: #000000;
+  font-family: Commissioner, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.component-1-PRn .auto-group-swt8-wiC .from-generous-giraffe-uYY {
+  width: 20.1rem;
+  height: 2.3rem;
+  position: absolute;
+  left: 2.9rem;
+  top: 1.8rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.2225;
+  color: #000000;
+  font-family: Commissioner, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.component-1-PRn .auto-group-swt8-wiC .free-heart-icon-431-thumb-1-RFz {
+  width: 3.8rem;
+  height: 3.6rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.component-1-PRn .hi-there-i-can-definitely-provide-some-insights-as-ive-experienced-the--MfS {
+  margin-right: 0.1rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2225;
+  color: rgba(0, 0, 0, 0.5);
+  font-family: Commissioner, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}

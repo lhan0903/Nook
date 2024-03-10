@@ -1,0 +1,108 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 49.7rem;
+}.unread-message-yvU {
+  width: 100%;
+  height: 9.6rem;
+  position: relative;
+}
+.unread-message-yvU .rectangle-6-YCt {
+  width: 48.7rem;
+  height: 8.8rem;
+  position: absolute;
+  left: 1rem;
+  top: 0.8rem;
+  border: solid 0.5rem #ff9d9d;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  border-radius: 2.5rem;
+}
+.unread-message-yvU .component-1-rDa {
+  width: 48.1rem;
+  height: 8.5rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+}
+.unread-message-yvU .component-1-rDa .auto-group-h6mi-zqa {
+  margin-bottom: 0.4rem;
+  width: 100%;
+  height: 6.3rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.unread-message-yvU .component-1-rDa .auto-group-h6mi-zqa .pm-LuS {
+  width: 5.9rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 42.2rem;
+  top: 1.8rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 0.955;
+  color: #000000;
+  font-family: Hubballi, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.unread-message-yvU .component-1-rDa .auto-group-h6mi-zqa .re-advice-needed-discrimination-in-potions-position-SxU {
+  width: 44.2rem;
+  height: 2.3rem;
+  position: absolute;
+  left: 2.9rem;
+  top: 4rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.2225;
+  color: #000000;
+  font-family: Commissioner, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.unread-message-yvU .component-1-rDa .auto-group-h6mi-zqa .from-generous-giraffe-96C {
+  width: 20.1rem;
+  height: 2.3rem;
+  position: absolute;
+  left: 2.9rem;
+  top: 1.8rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.2225;
+  color: #000000;
+  font-family: Commissioner, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.unread-message-yvU .component-1-rDa .auto-group-h6mi-zqa .free-heart-icon-431-thumb-1-3Ba {
+  width: 3.8rem;
+  height: 3.6rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.unread-message-yvU .component-1-rDa .hi-there-i-can-definitely-provide-some-insights-as-ive-experienced-the--Z9v {
+  margin-right: 0.1rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2225;
+  color: rgba(0, 0, 0, 0.5);
+  font-family: Commissioner, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
