@@ -1,4 +1,4 @@
-const CreateWhisper = () => {
+const Create = () => {
     return (
         <div className="container">
             <div className="title">
@@ -13,4 +13,4 @@ const CreateWhisper = () => {
     );
 };
 
-export default CreateWhisper;
+export default Create;
