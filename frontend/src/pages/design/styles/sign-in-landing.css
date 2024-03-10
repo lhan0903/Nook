@@ -1,0 +1,301 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 128rem;
+}.sign-in-landing-VoA {
+  box-sizing: border-box;
+  padding: 8.6rem 9.6rem 8.9rem 7.5rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  background-color: #fff3e8;
+}
+.sign-in-landing-VoA .auto-group-schr-xqA {
+  margin: 0rem 11.5rem 1rem 0rem;
+  width: 47.2rem;
+  height: 64.7rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.sign-in-landing-VoA .auto-group-schr-xqA .rectangle-1-U4k {
+  width: 47.2rem;
+  height: 35.3rem;
+  position: absolute;
+  left: 0;
+  top: 29.4rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.sign-in-landing-VoA .auto-group-schr-xqA .nook-logo-1-KLG {
+  width: 19.1rem;
+  height: 19.2rem;
+  position: absolute;
+  left: 2.3rem;
+  top: 7.9rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.sign-in-landing-VoA .auto-group-schr-xqA .nook-9q6 {
+  width: 26rem;
+  height: 30rem;
+  position: absolute;
+  left: 20.25rem;
+  top: 0;
+  text-align: center;
+  font-size: 20rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ff9d9d;
+  font-family: Just Me Again Down Here, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.sign-in-landing-VoA .auto-group-schr-xqA .give-voice-to-your-struggles-share-your-story-and-find-solidarity-through-connecting-with-minority-groups-join-a-community-where-every-message-counts-connecting-individuals-navigating-through-various-challenges-and-discover-that-youre-not-alone-in-your-journey-j2c {
+  width: 41.5rem;
+  height: 24.3rem;
+  position: absolute;
+  left: 4.55rem;
+  top: 31rem;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.445;
+  color: #000000;
+  font-family: Jost, 'Source Sans Pro';
+}
+.sign-in-landing-VoA .auto-group-asnt-axL {
+  width: 52.2rem;
+  height: 65.7rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.sign-in-landing-VoA .auto-group-asnt-axL .auto-group-mthz-tCL {
+  margin-bottom: 2.7rem;
+  width: 100%;
+  height: 31.5rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.sign-in-landing-VoA .auto-group-asnt-axL .auto-group-mthz-tCL .log-in-ZJU {
+  width: 9.1rem;
+  height: 4.5rem;
+  position: absolute;
+  left: 21.55rem;
+  top: 2.2rem;
+  text-align: center;
+  font-size: 3.6rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Jua, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.sign-in-landing-VoA .auto-group-asnt-axL .auto-group-mthz-tCL .input-area-PYQ {
+  box-sizing: border-box;
+  padding: 0.2rem 1.443rem 0.1rem 1.443rem;
+  width: 44.2rem;
+  height: 3.2rem;
+  position: absolute;
+  left: 4rem;
+  top: 8.4rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.445;
+  text-decoration-line: underline;
+  color: #ff9d9d;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.3rem #ace1ff;
+  background-color: #ffffff;
+  border-radius: 5rem;
+}
+.sign-in-landing-VoA .auto-group-asnt-axL .auto-group-mthz-tCL .input-area-feL {
+  width: 44.2rem;
+  height: 3.2rem;
+  position: absolute;
+  left: 4rem;
+  top: 13.8rem;
+  border: solid 0.3rem #ace1ff;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  border-radius: 5rem;
+}
+.sign-in-landing-VoA .auto-group-asnt-axL .auto-group-mthz-tCL .input-area-feL .youremaildomaincom-Mn4 {
+  width: 8rem;
+  height: 2.9rem;
+  position: absolute;
+  left: 1.4427rem;
+  top: 0.2rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.445;
+  color: #ff9d9d;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.sign-in-landing-VoA .auto-group-asnt-axL .auto-group-mthz-tCL .input-area-feL .input-area-Ldz {
+  box-sizing: border-box;
+  padding: 0.2rem 1.443rem 0.1rem 1.443rem;
+  width: 44.2rem;
+  height: 3.2rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.445;
+  color: #ff9d9d;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.3rem #ace1ff;
+  background-color: #ffffff;
+  border-radius: 5rem;
+}
+.sign-in-landing-VoA .auto-group-asnt-axL .auto-group-mthz-tCL .i-forgot-my-password-3B2 {
+  width: 10.7rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 20.8rem;
+  top: 19.4rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.445;
+  text-decoration-line: underline;
+  color: #000000;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.sign-in-landing-VoA .auto-group-asnt-axL .auto-group-mthz-tCL .group-3-txL {
+  width: 18.3rem;
+  height: 5.3rem;
+  cursor: pointer;
+  position: absolute;
+  left: 17rem;
+  top: 24rem;
+  text-align: center;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #ffffff;
+  font-family: Jua, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.2rem #ff5858;
+  box-sizing: border-box;
+  background-color: #ff9d9d;
+  border-radius: 5rem;
+}
+.sign-in-landing-VoA .auto-group-asnt-axL .auto-group-mthz-tCL .rectangle-4-s3a {
+  width: 52.2rem;
+  height: 31.5rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border: solid 0.5rem #ace1ff;
+  box-sizing: border-box;
+  border-radius: 5rem;
+}
+.sign-in-landing-VoA .auto-group-asnt-axL .auto-group-e6ex-Lhr {
+  width: 100%;
+  height: 31.5rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.sign-in-landing-VoA .auto-group-asnt-axL .auto-group-e6ex-Lhr .new-to-nook-sign-up-here-RzC {
+  width: 29.4rem;
+  height: 9rem;
+  position: absolute;
+  left: 11.45rem;
+  top: 2rem;
+  text-align: center;
+  font-size: 3.6rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Jua, 'Source Sans Pro';
+}
+.sign-in-landing-VoA .auto-group-asnt-axL .auto-group-e6ex-Lhr .input-area-JYC {
+  box-sizing: border-box;
+  padding: 0.2rem 1.443rem 0.1rem 1.443rem;
+  width: 44.2rem;
+  height: 3.2rem;
+  position: absolute;
+  left: 4rem;
+  top: 12.6rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.445;
+  text-decoration-line: underline;
+  color: #ff9d9d;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.3rem #ace1ff;
+  background-color: #ffffff;
+  border-radius: 5rem;
+}
+.sign-in-landing-VoA .auto-group-asnt-axL .auto-group-e6ex-Lhr .input-area-wr4 {
+  box-sizing: border-box;
+  padding: 0.2rem 1.443rem 0.1rem 1.443rem;
+  width: 44.2rem;
+  height: 3.2rem;
+  position: absolute;
+  left: 4rem;
+  top: 18rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.445;
+  color: #ff9d9d;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.3rem #ace1ff;
+  background-color: #ffffff;
+  border-radius: 5rem;
+}
+.sign-in-landing-VoA .auto-group-asnt-axL .auto-group-e6ex-Lhr .group-2-Pi4 {
+  width: 18.3rem;
+  height: 5.3rem;
+  position: absolute;
+  left: 17rem;
+  top: 23.4rem;
+  text-align: center;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #ffffff;
+  font-family: Jua, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.2rem #ff5858;
+  box-sizing: border-box;
+  background-color: #ff9d9d;
+  border-radius: 5rem;
+}
+.sign-in-landing-VoA .auto-group-asnt-axL .auto-group-e6ex-Lhr .rectangle-5-rrY {
+  width: 52.2rem;
+  height: 31.5rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border: solid 0.5rem #ace1ff;
+  box-sizing: border-box;
+  border-radius: 5rem;
+}

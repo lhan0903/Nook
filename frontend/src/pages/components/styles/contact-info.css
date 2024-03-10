@@ -1,0 +1,40 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 17.8rem;
+}.contact-info-ycG {
+  width: 100%;
+  height: 3.1rem;
+}
+.contact-info-ycG .group-11-jrL {
+  width: 100%;
+  height: 100%;
+  border-radius: 5rem;
+}
+.contact-info-ycG .group-11-jrL .group-9-uVv {
+  box-sizing: border-box;
+  padding: 0 1.3rem;
+  width: 100%;
+  height: 100%;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.445;
+  color: #000000;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: #ffffff;
+  border-radius: 5rem;
+  border: solid 0.3rem #ace1ff;
+}

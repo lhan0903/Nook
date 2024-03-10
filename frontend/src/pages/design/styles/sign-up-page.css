@@ -1,0 +1,46 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 128rem;
+}.sign-up-page-Cw6 {
+  box-sizing: border-box;
+  padding: 23.3rem 34.15rem 4.2rem 41.05rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #dfb58e;
+}
+.sign-up-page-Cw6 .they-say-in-ancient-times-people-would-go-into-the-mountains-and-the-forests-to-find-a-tree-hole-and-tell-the-tree-hole-their-secrets-then-seal-the-hole-with-some-mud-and-the-secrets-would-stay-there-forever-Kkp {
+  margin-bottom: 2.1rem;
+  max-width: 52.8rem;
+  text-align: center;
+  font-size: 2.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Just Me Again Down Here, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.sign-up-page-Cw6 .sign-in-graphic-1-9jr {
+  margin-right: 0.1rem;
+  width: 43.2rem;
+  height: 38rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}

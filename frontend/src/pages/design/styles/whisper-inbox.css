@@ -1,0 +1,652 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 128rem;
+}.whisper-inbox-wcQ {
+  box-sizing: border-box;
+  padding: 0rem 3.2rem 1.4rem 1.7rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  background-color: #fff3e8;
+}
+.whisper-inbox-wcQ .auto-group-xws2-FNC {
+  margin-bottom: 1.3rem;
+  width: 100%;
+  height: 18.3rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.whisper-inbox-wcQ .auto-group-xws2-FNC .frame-4-BFr {
+  margin: 0rem 4.25rem 3.3rem 0rem;
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.whisper-inbox-wcQ .auto-group-xws2-FNC .frame-4-BFr .nook-logo-1-EtL {
+  margin: 0rem 0.45rem 0.6rem 0rem;
+  width: 8.8rem;
+  height: 9.7rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.whisper-inbox-wcQ .auto-group-xws2-FNC .frame-4-BFr .nook-xJY {
+  text-align: center;
+  font-size: 10rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ff9d9d;
+  font-family: Just Me Again Down Here, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.whisper-inbox-wcQ .auto-group-xws2-FNC .auto-group-vde4-5tx {
+  margin: 10.3rem 2.2rem 0rem 0rem;
+  width: 69.9rem;
+  height: 8rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.whisper-inbox-wcQ .auto-group-xws2-FNC .auto-group-vde4-5tx .rectangle-10-cP6 {
+  width: 68.2rem;
+  height: 6.5rem;
+  position: absolute;
+  left: 1.7rem;
+  top: 1.5rem;
+  background-color: #ace1ff;
+  border-radius: 2.5rem;
+}
+.whisper-inbox-wcQ .auto-group-xws2-FNC .auto-group-vde4-5tx .whisper-inbox-XW4 {
+  width: 21.4rem;
+  height: 4.5rem;
+  position: absolute;
+  left: 25rem;
+  top: 2.5rem;
+  text-align: center;
+  font-size: 3.6rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Jua, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.whisper-inbox-wcQ .auto-group-xws2-FNC .auto-group-vde4-5tx .star-1-RbS {
+  width: 7.4071rem;
+  height: 7.4071rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.whisper-inbox-wcQ .auto-group-xws2-FNC .auto-group-vde4-5tx .item-386220-1-NFn {
+  width: 6.4rem;
+  height: 6.4rem;
+  position: absolute;
+  left: 61.4rem;
+  top: 1.6rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.whisper-inbox-wcQ .auto-group-xws2-FNC .auto-group-d9y6-h3A {
+  margin: 6.1rem 1.8rem 5rem 0rem;
+  width: 16.4rem;
+  height: calc(100% - 11.1rem);
+  position: relative;
+  flex-shrink: 0;
+}
+.whisper-inbox-wcQ .auto-group-xws2-FNC .auto-group-d9y6-h3A .ellipse-1-QyA {
+  width: 7.2rem;
+  height: 7.2rem;
+  position: absolute;
+  left: 9.2rem;
+  top: 0;
+  border: solid 0.5rem #ace1ff;
+  box-sizing: border-box;
+  border-radius: 3.6rem;
+}
+.whisper-inbox-wcQ .auto-group-xws2-FNC .auto-group-d9y6-h3A .group-13-wCQ {
+  box-sizing: border-box;
+  padding-left: 1.1rem;
+  width: 16.2rem;
+  height: 6.7rem;
+  cursor: pointer;
+  position: absolute;
+  left: 0;
+  top: 0.2rem;
+  display: flex;
+  align-items: center;
+}
+.whisper-inbox-wcQ .auto-group-xws2-FNC .auto-group-d9y6-h3A .group-13-wCQ .my-profile-yun {
+  margin: 0.1rem 1.4rem 0rem 0rem;
+  max-width: 7rem;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Jua, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.whisper-inbox-wcQ .auto-group-xws2-FNC .auto-group-d9y6-h3A .group-13-wCQ .screenshot2024-03-09at733-1-5xp {
+  width: 6.7rem;
+  height: 6.7rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.whisper-inbox-wcQ .auto-group-xws2-FNC .auto-group-5vgg-QEQ {
+  margin: 6.6rem 0rem 5.4rem 0rem;
+  box-sizing: border-box;
+  padding: 1.7rem 1.3rem 1.6rem 1.4rem;
+  height: calc(100% - 12rem);
+  background-color: #98e635;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.whisper-inbox-wcQ .auto-group-xws2-FNC .auto-group-5vgg-QEQ .frame-5-uS4 {
+  width: 3.6rem;
+  height: 3rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.whisper-inbox-wcQ .unread-message-SB6 {
+  margin: 0rem 0rem 0.8rem 4.4rem;
+  width: 49.7rem;
+  height: 9.6rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.whisper-inbox-wcQ .unread-message-SB6 .rectangle-6-MYx {
+  width: 48.7rem;
+  height: 8.8rem;
+  position: absolute;
+  left: 1rem;
+  top: 0.8rem;
+  border: solid 0.5rem #ff9d9d;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  border-radius: 2.5rem;
+}
+.whisper-inbox-wcQ .unread-message-SB6 .pm-fZe {
+  width: 5.9rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 42.2rem;
+  top: 1.8rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 0.955;
+  color: #000000;
+  font-family: Hubballi, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.whisper-inbox-wcQ .unread-message-SB6 .re-uncertain-matters-NDA {
+  width: 18.4rem;
+  height: 2.3rem;
+  position: absolute;
+  left: 2.9rem;
+  top: 4rem;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.2225;
+  color: #000000;
+  font-family: Commissioner, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.whisper-inbox-wcQ .unread-message-SB6 .hi-jane-thank-you-for-being-so-open-to-sharing-your-story-ive-been-thr-s9v {
+  width: 45.6rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 2.9rem;
+  top: 6.7rem;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.2225;
+  color: rgba(0, 0, 0, 0.5);
+  font-family: Commissioner, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.whisper-inbox-wcQ .unread-message-SB6 .from-amazing-alligator-jC8 {
+  width: 21.2rem;
+  height: 2.3rem;
+  position: absolute;
+  left: 2.9rem;
+  top: 1.8rem;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.2225;
+  color: #000000;
+  font-family: Commissioner, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.whisper-inbox-wcQ .unread-message-SB6 .free-heart-icon-431-thumb-1-qW4 {
+  width: 3.8rem;
+  height: 3.6rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.whisper-inbox-wcQ .component-2-NVz {
+  margin: 0rem 0rem 0.8rem 4.4rem;
+  width: 49.7rem;
+  height: 9.6rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.whisper-inbox-wcQ .component-2-NVz .rectangle-6-tz8 {
+  width: 48.7rem;
+  height: 8.8rem;
+  position: absolute;
+  left: 1rem;
+  top: 0.8rem;
+  border: solid 0.5rem #ff9d9d;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  border-radius: 2.5rem;
+}
+.whisper-inbox-wcQ .component-2-NVz .pm-btY {
+  width: 6.5rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 41.9rem;
+  top: 1.8rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 0.955;
+  color: #000000;
+  font-family: Hubballi, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.whisper-inbox-wcQ .component-2-NVz .re-uncertain-matters-7M6 {
+  width: 18.4rem;
+  height: 2.3rem;
+  position: absolute;
+  left: 2.9rem;
+  top: 4rem;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.2225;
+  color: #000000;
+  font-family: Commissioner, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.whisper-inbox-wcQ .component-2-NVz .hi-jane-thank-you-for-being-so-open-to-sharing-your-story-ive-been-thr-DQ8 {
+  width: 45.8rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 2.9rem;
+  top: 6.7rem;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.2225;
+  color: rgba(0, 0, 0, 0.5);
+  font-family: Commissioner, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.whisper-inbox-wcQ .component-2-NVz .from-amazing-alligator-6Tv {
+  width: 18.5rem;
+  height: 2.3rem;
+  position: absolute;
+  left: 2.9rem;
+  top: 1.8rem;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.2225;
+  color: #000000;
+  font-family: Commissioner, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.whisper-inbox-wcQ .component-2-NVz .free-heart-icon-431-thumb-1-ot8 {
+  width: 3.8rem;
+  height: 3.6rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.whisper-inbox-wcQ .unread-message-jFz {
+  margin: 0rem 0rem 0.8rem 4.4rem;
+  width: 49.7rem;
+  height: 9.6rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.whisper-inbox-wcQ .unread-message-jFz .rectangle-6-f9e {
+  width: 48.7rem;
+  height: 8.8rem;
+  position: absolute;
+  left: 1rem;
+  top: 0.8rem;
+  border: solid 0.5rem #ff9d9d;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  border-radius: 2.5rem;
+}
+.whisper-inbox-wcQ .unread-message-jFz .component-1-Npk {
+  width: 48rem;
+  height: 8.5rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+}
+.whisper-inbox-wcQ .unread-message-jFz .component-1-Npk .auto-group-wcvy-83E {
+  margin: 0rem 0.3rem 0.4rem 0rem;
+  width: 47.7rem;
+  height: 6.3rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.whisper-inbox-wcQ .unread-message-jFz .component-1-Npk .auto-group-wcvy-83E .pm-rE8 {
+  width: 5.1rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 42.6rem;
+  top: 1.8rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 0.955;
+  color: #000000;
+  font-family: Hubballi, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.whisper-inbox-wcQ .unread-message-jFz .component-1-Npk .auto-group-wcvy-83E .re-advice-needed-discrimination-in-potions-position-ZPS {
+  width: 44.2rem;
+  height: 2.3rem;
+  position: absolute;
+  left: 2.9rem;
+  top: 4rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.2225;
+  color: #000000;
+  font-family: Commissioner, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.whisper-inbox-wcQ .unread-message-jFz .component-1-Npk .auto-group-wcvy-83E .from-generous-giraffe-rdS {
+  width: 20.1rem;
+  height: 2.3rem;
+  position: absolute;
+  left: 2.9rem;
+  top: 1.8rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.2225;
+  color: #000000;
+  font-family: Commissioner, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.whisper-inbox-wcQ .unread-message-jFz .component-1-Npk .auto-group-wcvy-83E .free-heart-icon-431-thumb-1-xRa {
+  width: 3.8rem;
+  height: 3.6rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.whisper-inbox-wcQ .unread-message-jFz .component-1-Npk .hi-there-i-can-definitely-provide-some-insights-as-ive-experienced-the--ta8 {
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2225;
+  color: rgba(0, 0, 0, 0.5);
+  font-family: Commissioner, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.whisper-inbox-wcQ .auto-group-fmju-nQc {
+  margin: 0rem 44.3rem 0rem 4.4rem;
+  width: calc(100% - 48.7rem);
+  height: 9.6rem;
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.whisper-inbox-wcQ .auto-group-fmju-nQc .unread-message-Jtk {
+  margin-right: 6.6rem;
+  width: 49.7rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.whisper-inbox-wcQ .auto-group-fmju-nQc .unread-message-Jtk .rectangle-6-TWk {
+  width: 48.7rem;
+  height: 8.8rem;
+  position: absolute;
+  left: 1rem;
+  top: 0.8rem;
+  border: solid 0.5rem #ff9d9d;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  border-radius: 2.5rem;
+}
+.whisper-inbox-wcQ .auto-group-fmju-nQc .unread-message-Jtk .component-1-xyJ {
+  width: 48rem;
+  height: 8.5rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+}
+.whisper-inbox-wcQ .auto-group-fmju-nQc .unread-message-Jtk .component-1-xyJ .auto-group-xs52-75W {
+  margin-bottom: 0.4rem;
+  width: 100%;
+  height: 6.3rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.whisper-inbox-wcQ .auto-group-fmju-nQc .unread-message-Jtk .component-1-xyJ .auto-group-xs52-75W .pm-r36 {
+  width: 5.1rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 42.6rem;
+  top: 1.8rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 0.955;
+  color: #000000;
+  font-family: Hubballi, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.whisper-inbox-wcQ .auto-group-fmju-nQc .unread-message-Jtk .component-1-xyJ .auto-group-xs52-75W .re-advice-needed-discrimination-in-potions-position-A3n {
+  width: 45.1rem;
+  height: 2.3rem;
+  position: absolute;
+  left: 2.9rem;
+  top: 4rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.2225;
+  color: #000000;
+  font-family: Commissioner, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.whisper-inbox-wcQ .auto-group-fmju-nQc .unread-message-Jtk .component-1-xyJ .auto-group-xs52-75W .from-generous-giraffe-3tG {
+  width: 16.6rem;
+  height: 2.3rem;
+  position: absolute;
+  left: 2.9rem;
+  top: 1.8rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.2225;
+  color: #000000;
+  font-family: Commissioner, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.whisper-inbox-wcQ .auto-group-fmju-nQc .unread-message-Jtk .component-1-xyJ .auto-group-xs52-75W .free-heart-icon-431-thumb-1-Yq2 {
+  width: 3.8rem;
+  height: 3.6rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.whisper-inbox-wcQ .auto-group-fmju-nQc .unread-message-Jtk .component-1-xyJ .hi-there-i-can-definitely-provide-some-insights-as-ive-experienced-the--Uya {
+  margin-right: 0.1rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2225;
+  color: rgba(0, 0, 0, 0.5);
+  font-family: Commissioner, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.whisper-inbox-wcQ .auto-group-fmju-nQc .quick-actions--NZA {
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Jua, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.whisper-inbox-wcQ .auto-group-hy84-7Fr {
+  margin: 0rem 45.9rem 12.8rem 4.4rem;
+  width: calc(100% - 50.3rem);
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.whisper-inbox-wcQ .auto-group-hy84-7Fr .unread-message-27v {
+  margin: 0.8rem 6.6rem 0rem 0rem;
+  width: 49.7rem;
+  height: 9.6rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.whisper-inbox-wcQ .auto-group-hy84-7Fr .unread-message-27v .rectangle-6-Yrx {
+  width: 48.7rem;
+  height: 8.8rem;
+  position: absolute;
+  left: 1rem;
+  top: 0.8rem;
+  border: solid 0.5rem #ff9d9d;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  border-radius: 2.5rem;
+}
+.whisper-inbox-wcQ .auto-group-hy84-7Fr .unread-message-27v .component-1-euz {
+  width: 48.4rem;
+  height: 8.5rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+}
+.whisper-inbox-wcQ .auto-group-hy84-7Fr .unread-message-27v .component-1-euz .auto-group-7rhe-zix {
+  margin: 0rem 0.7rem 0.4rem 0rem;
+  width: 47.7rem;
+  height: 6.3rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.whisper-inbox-wcQ .auto-group-hy84-7Fr .unread-message-27v .component-1-euz .auto-group-7rhe-zix .pm-JzY {
+  width: 5.1rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 42.6rem;
+  top: 1.8rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 0.955;
+  color: #000000;
+  font-family: Hubballi, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.whisper-inbox-wcQ .auto-group-hy84-7Fr .unread-message-27v .component-1-euz .auto-group-7rhe-zix .re-advice-needed-discrimination-in-potions-position-29r {
+  width: 44.5rem;
+  height: 2.3rem;
+  position: absolute;
+  left: 2.9rem;
+  top: 4rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.2225;
+  color: #000000;
+  font-family: Commissioner, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.whisper-inbox-wcQ .auto-group-hy84-7Fr .unread-message-27v .component-1-euz .auto-group-7rhe-zix .from-generous-giraffe-iHa {
+  width: 23.5rem;
+  height: 2.3rem;
+  position: absolute;
+  left: 2.9rem;
+  top: 1.8rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.2225;
+  color: #000000;
+  font-family: Commissioner, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.whisper-inbox-wcQ .auto-group-hy84-7Fr .unread-message-27v .component-1-euz .auto-group-7rhe-zix .free-heart-icon-431-thumb-1-dQY {
+  width: 3.8rem;
+  height: 3.6rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.whisper-inbox-wcQ .auto-group-hy84-7Fr .unread-message-27v .component-1-euz .hi-there-i-can-definitely-provide-some-insights-as-ive-experienced-the--kzx {
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2225;
+  color: rgba(0, 0, 0, 0.5);
+  font-family: Commissioner, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.whisper-inbox-wcQ .auto-group-hy84-7Fr .send-flowers-4Ex {
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Jua, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.whisper-inbox-wcQ .review-code-of-conduct-CMA {
+  margin-left: 54.4rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.445;
+  text-decoration-line: underline;
+  color: #000000;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
