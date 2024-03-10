@@ -1,11 +1,11 @@
 import './App.css';
 import {Routes, Route, useNavigate} from 'react-router-dom';
 
-import Login from "./pages/Login";
-import Dashboard from "./pages/Dashboard";
-import Create from "./pages/Create";
-import View from "./pages/View";
-import History from "./pages/History";
+import Login from "./pages/design/Login";
+import Dashboard from "./pages/design/Dashboard";
+import Create from "./pages/design/Create";
+import View from "./pages/design/View";
+import History from "./pages/design/History";
 import NavBar from "./components/NavBar";
 import {useEffect, useState} from "react";
 
