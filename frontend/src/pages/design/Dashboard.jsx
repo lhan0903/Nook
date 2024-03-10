@@ -132,7 +132,7 @@ const Dashboard = () => {
                                 </div>
                                 <div class="category-3M6">
                                     <img class="item-8088864-1-NuA" src="./images/-Sep.png"/>
-                                    <p class="discrimination-at-workplace-hwS">Same Ethic/Cultural Group</p>
+                                    <p class="discrimination-at-workplace-hwS">Same Cultural Group</p>
                                 </div>
                                 <div class="category-1x8">
                                     <p class="discrimination-at-workplace-mwJ">Same Occupation</p>
