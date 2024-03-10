@@ -37,15 +37,19 @@ const Login = ({ setisLoggedIn }) => {
                 <div class="auto-group-asnt-axL">
                     <div class="auto-group-mthz-tCL">
                         <p class="log-in-ZJU">Log In</p>
-                        <div class="input-area-PYQ">youremail@domain.com</div>
+                        <div class="input-area-PYQ"></div>
+                        <div className="fixed-input3">
+                            <input type="text" placeholder="youremail@domain.com"></input>
+                        </div>
                         <div class="input-area-feL">
-                            <p class="youremaildomaincom-Mn4">password</p>
-                            <div class="input-area-Ldz">password</div>
+                            <p class="youremaildomaincom-Mn4"></p>
+                            <div className="fixed-input4">
+                                <input type="text" placeholder="password"></input>
+                            </div>
                         </div>
                         <p class="i-forgot-my-password-3B2">I forgot my password</p>
-                        {/*<div class="group-3-txL">LOG IN</div>*/}
                         <button class="group-3-txL" onClick={handleLogin}>LOG IN</button>
-                        <div class="rectangle-4-s3a">
+                        <div className="rectangle-4-s3a">
                         </div>
                     </div>
                     <div class="auto-group-e6ex-Lhr">

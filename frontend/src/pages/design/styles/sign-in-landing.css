@@ -25,7 +25,39 @@ body {
   background-color: #fff3e8;
 }
 
+.fixed-input3 {
+  position: fixed;
+  top: 17.8em; /* Adjust as needed */
+  left: 73em; /* Adjust as needed */
+  z-index: 5;
+}
 
+.fixed-input3 input[type="text"] {
+  background-color: transparent;
+  border: none; /* Add border for visibility */
+  border-radius: 5px;
+  color: #333; /* Text color */
+  font-size: 16px; /* Text size */
+  width: 200px; /* Adjust width as needed */
+  outline: none; /* Remove focus outline */
+}
+
+.fixed-input4 {
+  position: fixed;
+  top: 23.2em; /* Adjust as needed */
+  left: 73em; /* Adjust as needed */
+  z-index: 5;
+}
+
+.fixed-input4 input[type="text"] {
+  background-color: transparent;
+  border: none; /* Add border for visibility */
+  border-radius: 5px;
+  color: #333; /* Text color */
+  font-size: 16px; /* Text size */
+  width: 200px; /* Adjust width as needed */
+  outline: none; /* Remove focus outline */
+}
 
 .sign-in-landing-VoA .auto-group-schr-xqA {
   margin: 0rem 11.5rem 1rem 0rem;

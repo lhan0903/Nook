@@ -1,0 +1,34 @@
+.fixed-input1 {
+    position: fixed;
+    top: 26em; /* Adjust as needed */
+    left: 53em; /* Adjust as needed */
+}
+
+.fixed-input1 input[type="text"] {
+    background-color: transparent;
+    border: none; /* Add border for visibility */
+    padding: 10px;
+    border-radius: 5px;
+    color: #333; /* Text color */
+    font-size: 16px; /* Text size */
+    width: 200px; /* Adjust width as needed */
+    outline: none; /* Remove focus outline */
+}
+
+.fixed-input2 {
+    position: fixed;
+    top: 42em; /* Adjust as needed */
+    left: 53em; /* Adjust as needed */
+}
+
+.fixed-input2 input[type="text"] {
+    background-color: transparent;
+    border: none; /* Add border for visibility */
+    padding: 10px;
+    border-radius: 5px;
+    color: #333; /* Text color */
+    font-size: 16px; /* Text size */
+    width: 200px; /* Adjust width as needed */
+    outline: none; /* Remove focus outline */
+}
+
