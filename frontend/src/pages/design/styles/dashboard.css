@@ -1,7 +1,7 @@
-
-html {
-	font-size:62.5%;
+.dashboard-HiC {
+  width: 80rem;
 }
+
 * {
 	margin: 0;
 	padding: 0;
@@ -12,12 +12,10 @@ ul, li {
 input {
 	border: none;
 }
-body {
-  width: 128rem;
-}.dashboard-HiC {
+.dashboard-HiC {
   box-sizing: border-box;
-  padding: 0rem 3.2rem 1.4rem 1.7rem;
-  width: 100%;
+  padding: 0rem 3.2rem 1.4rem 5rem;
+  width: 85vw;
   overflow: hidden;
   position: relative;
   align-items: center;
@@ -654,6 +652,7 @@ body {
   flex-direction: column;
   flex-shrink: 0;
 }
+
 .dashboard-HiC .auto-group-9vzg-ziQ .auto-group-iat6-x7N .auto-group-zpgk-W8t {
   margin-bottom: 2.6rem;
   box-sizing: border-box;
@@ -664,7 +663,14 @@ body {
   background-color: #efb0f9;
   border-radius: 2.5rem;
   flex-shrink: 0;
+  border: none; /* This line makes the border colorless */
+  cursor: pointer; /* Change cursor to pointer */
 }
+
+.dashboard-HiC .auto-group-9vzg-ziQ .auto-group-iat6-x7N .auto-group-zpgk-W8t:hover {
+  background-color: #d68ff1; /* Change background color on hover */
+}
+
 .dashboard-HiC .auto-group-9vzg-ziQ .auto-group-iat6-x7N .auto-group-zpgk-W8t .send-a-whisper-otg {
   margin: 0.1rem 0.9rem 0rem 0rem;
   max-width: 10.8rem;

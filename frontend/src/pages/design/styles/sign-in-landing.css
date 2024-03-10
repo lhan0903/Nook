@@ -13,7 +13,7 @@ input {
 	border: none;
 }
 body {
-  width: 128rem;
+  /* width: 128rem;*/
 }.sign-in-landing-VoA {
   box-sizing: border-box;
   padding: 8.6rem 9.6rem 8.9rem 7.5rem;
@@ -25,7 +25,7 @@ body {
   background-color: #fff3e8;
 }
 
- 
+
 
 .sign-in-landing-VoA .auto-group-schr-xqA {
   margin: 0rem 11.5rem 1rem 0rem;

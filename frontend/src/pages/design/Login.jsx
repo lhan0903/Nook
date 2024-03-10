@@ -2,6 +2,7 @@ import { useNavigate} from "react-router-dom";
 import Dashboard from "./Dashboard";
 import {useState} from "react";
 import "./styles/sign-in-landing.css"
+import NavBar from "./nav-bar-side";
 
 const Login = ({ setisLoggedIn }) => {
     const navigate = useNavigate();

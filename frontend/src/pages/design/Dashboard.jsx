@@ -1,24 +1,25 @@
 import "./styles/dashboard.css"
 import NavBar from "./nav-bar-side";
+import {useNavigate} from "react-router-dom";
 
 const Dashboard = () => {
+    const navigate = useNavigate();
+    const handleButton = () => {
+        navigate("/create"); // Navigate to the dashboard page after login
+    };
+
     return (
         <div className="html-file">
-            <head>
-                <link rel="icon" href="/favicon.ico" />
-                <meta name="viewport" content="width=device-width, initial-scale=1" />
-                <meta name="theme-color" content="#000000" />
-                <title>Dashboard</title>
-                <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro%3A400%2C700"/>
-                <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Jua%3A400"/>
-                <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Hubballi%3A400"/>
-                <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Commissioner%3A400%2C700"/>
-                <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Kyiv%2AType+Serif%3A400"/>
-                <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Jost%3A400"/>
-                <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Just+Me+Again+Down+Here%3A400"/>
-                <link rel="stylesheet" href="./styles/dashboard.css"/>
-            </head>
-            <body>
+            <link rel="stylesheet" href="./styles/dashboard.css"/>
+            <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro%3A400%2C700"/>
+            <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Jua%3A400"/>
+            <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Hubballi%3A400"/>
+            <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Commissioner%3A400%2C700"/>
+            <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Kyiv%2AType+Serif%3A400"/>
+            <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Jost%3A400"/>
+            <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Just+Me+Again+Down+Here%3A400"/>
+            <NavBar />
+
             <div class="dashboard-HiC">
                 <div class="auto-group-hg2p-QXv">
                     <div class="frame-4-wnk">
@@ -109,10 +110,10 @@ const Dashboard = () => {
                         </div>
                     </div>
                     <div class="auto-group-iat6-x7N">
-                        <div class="auto-group-zpgk-W8t">
-                            <p class="send-a-whisper-otg">Send a Whisper  </p>
+                        <button class="auto-group-zpgk-W8t" onClick={handleButton}>
+                            <div class="send-a-whisper-otg">Send a Whisper  </div>
                             <img class="item-5036609-1-K6L" src="./images/-t9z.png"/>
-                        </div>
+                        </button>
                         <div class="auto-group-7v4t-q4g">
                             <div class="rectangle-12-NaQ">
                             </div>
@@ -166,7 +167,6 @@ const Dashboard = () => {
                 </div>
                 <p class="review-code-of-conduct-dZW">Review Code of Conduct</p>
             </div>
-            </body>
         </div>
     );
 };
